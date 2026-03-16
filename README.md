@@ -1,6 +1,6 @@
 ### Hi, I'm Vahn 👋
 
-Not a developer — I build AI agent skills on [OpenClaw](https://openclaw.ai) using Claude Code + Codex, entirely through natural language.
+I build things with AI — Claude Code + Codex, entirely through natural language.
 
 ---
 
