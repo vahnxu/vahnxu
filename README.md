@@ -1,6 +1,6 @@
 ### Hi, I'm Vahn 👋
 
-Builder & product designer. I make AI agent skills on [OpenClaw](https://openclaw.ai).
+Not a developer — I build AI agent skills on [OpenClaw](https://openclaw.ai) using Claude Code + Codex, entirely through natural language.
 
 ---
 
@@ -8,8 +8,8 @@ Builder & product designer. I make AI agent skills on [OpenClaw](https://opencla
 
 | Skill | Description |
 |-------|-------------|
-| [📡 SignalRadar](https://clawhub.ai/skills/signalradar) | Track Polymarket prediction markets — AI, geopolitics, crypto & more. Watchlist-driven monitoring & push alerts. |
+| [📡 SignalRadar](https://clawhub.ai/skills/signalradar) | Monitor Polymarket prediction markets for probability shifts and get push alerts via Telegram. Track crypto prices, AI race, geopolitics & more. The most complete Polymarket monitoring skill on ClawHub. |
 | [🫘 Doubao ASR](https://clawhub.ai/skills/doubao-asr) | Transcribe audio via ByteDance Seed-ASR 2.0. Best-in-class Chinese speech recognition. |
-| [🔊 Deepgram ASR](https://clawhub.ai/skills/deepgram-asr) | Fast, accurate, cost-effective multilingual transcription via Deepgram Nova-3. 50+ languages. |
+| [🔊 Deepgram ASR](https://clawhub.ai/skills/deepgram-asr) | Fast, accurate multilingual transcription via Deepgram Nova-3. 50+ languages. |
 
 > Browse all community skills at [clawhub.ai](https://clawhub.ai).
